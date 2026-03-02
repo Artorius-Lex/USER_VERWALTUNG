@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "Icyscorpion",
+        "email": "Artorius-LexLaschet@gmx.at",
+        "password": "6b5a32a17f64f45b49ed71b7b1ef887b83d8f0fd96c85d0401a38878ed24b9c2",
+        "salt": "49ebc80387e38bff46da1442015b08704d693010c53bdc5b72f3dc676572c64e",
+        "isActive": true,
+        "isAdmin": false,
+        "createdAt": "2026-03-02T07:40:01+00:00"
+    },
+    {
+        "id": 2,
+        "username": "Icyscorpion",
+        "email": "Artorius-LexLaschet@gmx.at",
+        "password": "42c0ecc935918e366f2e7e2dc46508c901b97b797740acfcb2bc4737b8ea6d1a",
+        "salt": "f5758f81906f5e97a88393025b558975188ba6ba8004add9bd19ef3cb70bd1c4",
+        "isActive": false,
+        "isAdmin": false,
+        "createdAt": "2026-03-02T07:40:21+00:00"
+    },
+    {
+        "id": 3,
+        "username": "Robin",
+        "email": "Robin@rob.at",
+        "password": "985275594f1b2718f6e809b8260f71e5e52f4a4e0e6256ac38898296d929b7a5",
+        "salt": "ec4b18b8e8c290494ac1c132a557bee1db21e837e324523307231b376b3f1ab8",
+        "isActive": true,
+        "isAdmin": false,
+        "createdAt": "2026-03-02T07:46:35+00:00"
+    }
+]
